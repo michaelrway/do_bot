@@ -1,0 +1,14 @@
+{
+  "name": "dobot",
+  "version": "1.0.0",
+  "description": "Digital Ocean Deploy bot",
+  "main": "dobot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Way",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "0.0.5"
+  }
+}
